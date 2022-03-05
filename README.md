@@ -8,17 +8,4 @@
 
 https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 
-
-
-有bug请反馈 [@Shawn_KOP_bot](https://t.me/Shawn_KOP_bot) 
-
-更新请关注 tg 频道 https://t.me/QuanX_API
-
-
-
-觉得有帮助可以请喝咖啡:
-
-
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
-
+（此项目为Fork，仅为了更好的同步至gitee）
