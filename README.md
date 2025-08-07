@@ -7,5 +7,3 @@
 
 
 https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
-
-（此项目为Fork，仅为了更好的同步至gitee）
